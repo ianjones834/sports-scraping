@@ -1,0 +1,1 @@
+python3 -m scrapy runspider "./nba_spider.py" -o data.jsonl
