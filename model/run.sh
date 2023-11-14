@@ -1,4 +1,4 @@
-files=("mlb" "nba" "ncaaf" "nfl" "nhl")
+files=("mlb" "nba" "college-football" "nfl" "nhl")
 
 rm './data/data.json'
 

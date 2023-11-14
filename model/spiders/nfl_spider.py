@@ -1,6 +1,6 @@
 import scrapy
 
-class NbaSpider(scrapy.Spider):
+class NflSpider(scrapy.Spider):
   name = "espn"
   start_urls = [
     "https://www.espn.com/nfl/lines",
